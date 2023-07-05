@@ -65,7 +65,5 @@ export class AppComponent {
       })
 
     }
-    if(this.cont1 === "USD"){
-    }
   }
 }
